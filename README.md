@@ -115,11 +115,11 @@ Some notable differences are:
 
 ## Related Projects
 
-- [svelte-jsx]: write svelte components using [jsx]
-- [svelte-hyperscript]: the core of this implementation
-- [svelte-fragment-component]: a utility component
-- [htm](https://www.npmjs.com/package/htm): making **H**yperscript **T**agged **M**arkup possible
-- [@testing-library/svelte](https://testing-library.com/docs/svelte-testing-library/intro): helps to test UI components in a user-centric way
+- [svelte-jsx] - write svelte components using [jsx]
+- [svelte-hyperscript] - the core of this implementation
+- [svelte-fragment-component] - a utility component
+- [htm](https://www.npmjs.com/package/htm) - making **H**yperscript **T**agged **M**arkup possible
+- [@testing-library/svelte](https://testing-library.com/docs/svelte-testing-library/intro) - helps to test UI components in a user-centric way
 
 ## Support
 
