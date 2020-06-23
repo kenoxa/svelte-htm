@@ -1,6 +1,6 @@
 {
   "name": "svelte-htm",
-  "version": "1.0.0-dev",
+  "version": "1.0.0",
   "description": "tagged template syntax for svelte",
   "repository": {
     "type": "git",
