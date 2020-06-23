@@ -32,12 +32,6 @@
       "import": "./dist/esm/html.js",
       "require": "./dist/cjs/html.js",
       "umd": "./dist/umd/html.js"
-    },
-    "./cjs": {
-      "default": "./dist/cjs/html.js"
-    },
-    "./esm": {
-      "default": "./dist/esm/html.js"
     }
   },
   "module": "./dist/esm/html.js",
@@ -66,6 +60,9 @@
     "htm": "^3.0.4",
     "svelte-hyperscript": "^1.1.0",
     "svelte-fragment-component": "^1.1.0"
+  },
+  "peerDependencies": {
+    "svelte": "3.x"
   },
   "devDependencies": {
     "@babel/core": "^7.10.3",

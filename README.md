@@ -24,7 +24,7 @@ This is especially useful for [testing svelte components](https://github.com/sve
 ## Installation
 
 ```sh
-npm install svelte-htm
+npm install --save-dev svelte-htm
 ```
 
 And then import it:
@@ -63,7 +63,7 @@ import html from 'https://unpkg.com/svelte-htm?module'
 ## Usage
 
 ```js
-import { render } from '@testing-library/svelte'
+import { render, fireEvent } from '@testing-library/svelte'
 import html from 'svelte-htm'
 
 import Button from '../src/Button.svelte'
@@ -89,6 +89,10 @@ Some notable differences are:
 - Using [stores](https://svelte.dev/docs#svelte_store) to allow reactivity
 
   ```js
+  import { render } from '@testing-library/svelte'
+  import userEvent from '@testing-library/user-event'
+  import { writable, get } from 'svelte/store'
+
   test('write into an input', () => {
     const text = writable()
     const { getByRole } = render(html`<input bind:value=${text}>`)
