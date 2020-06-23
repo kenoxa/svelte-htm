@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/kenoxa/svelte-htm/compare/v1.0.1...v1.0.2) (2020-06-23)
+
+
+### Bug Fixes
+
+* run build before publish ([e234cb7](https://www.github.com/kenoxa/svelte-htm/commit/e234cb74db1bb38ae911d3145daa96cab886cc0a))
+
 ### [1.0.1](https://www.github.com/kenoxa/svelte-htm/compare/v1.0.0...v1.0.1) (2020-06-23)
 
 
