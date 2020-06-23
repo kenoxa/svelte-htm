@@ -29,9 +29,9 @@
   "exports": {
     "./package.json": "./package.json",
     ".": {
-      "import": "./dist/esm/html.js",
       "require": "./dist/cjs/html.js",
-      "umd": "./dist/umd/html.js"
+      "umd": "./dist/umd/html.js",
+      "default": "./dist/esm/html.js"
     }
   },
   "module": "./dist/esm/html.js",
