@@ -15,7 +15,7 @@
 
 ## What?
 
-Write svelte components in [jsx]-[like syntax](https://www.npmjs.com/package/htm#syntax-like-jsx-but-also-lit) in Standard JavaScript [Tagged Templates] which works in [all modern browsers] and in node.
+Write svelte components in [jsx]-like [syntax](https://www.npmjs.com/package/htm#syntax-like-jsx-but-also-lit) in Standard JavaScript [Tagged Templates] which works in [all modern browsers] and in node.
 
 ## Why?
 
