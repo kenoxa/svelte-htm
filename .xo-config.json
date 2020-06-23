@@ -1,0 +1,17 @@
+{
+  "envs": ["es2020", "browser"],
+  "space": true,
+  "prettier": true,
+  "extends": [
+    "plugin:jest/recommended",
+    "plugin:jest/style",
+    "plugin:jest-dom/recommended",
+    "plugin:testing-library/recommended"
+  ],
+  "overrides": [
+    {
+      "files": "src/**/*.js",
+      "nodeVersion": ">=14"
+    }
+  ]
+}
