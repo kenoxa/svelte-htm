@@ -2,12 +2,12 @@
 
 > [**H**yperscript **T**agged **M**arkup](https://www.npmjs.com/package/htm) for [svelte](https://svelte.dev/)
 
-[![License](https://badgen.net/npm/license/svelte-htm)](https://github.com/sastan/svelte-htm/blob/main/LICENSE)
+[![License](https://badgen.net/npm/license/svelte-htm)](https://github.com/kenoxa/svelte-htm/blob/main/LICENSE)
 [![Latest Release](https://badgen.net/npm/v/svelte-htm)](https://www.npmjs.com/package/svelte-htm)
 [![View changelog](https://badgen.net/badge/%E2%80%8B/Explore%20Changelog/green?icon=awesome)](https://changelogs.xyz/svelte-htm)
 
-[![CI](https://github.com/sastan/svelte-htm/workflows/CI/badge.svg)](https://github.com/sastan/svelte-htm/actions?query=branch%3Amain+workflow%3ACI)
-[![Coverage Status](https://badgen.net/coveralls/c/github/sastan/svelte-htm/main)](https://coveralls.io/github/sastan/svelte-htm?branch=main)
+[![CI](https://github.com/kenoxa/svelte-htm/workflows/CI/badge.svg)](https://github.com/kenoxa/svelte-htm/actions?query=branch%3Amain+workflow%3ACI)
+[![Coverage Status](https://badgen.net/coveralls/c/github/kenoxa/svelte-htm/main)](https://coveralls.io/github/kenoxa/svelte-htm?branch=main)
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/purple)](http://makeapullrequest.com)
 [![Conventional Commits](https://badgen.net/badge/Conventional%20Commits/1.0.0/cyan)](https://conventionalcommits.org)
 
@@ -82,7 +82,7 @@ test('should render', () => {
 
 ## API
 
-We [aim to support](https://github.com/sastan/svelte-hyperscript#feature-set) all svelte features. In some cases this is not possible. For those cases we provided feasible workarounds. See [svelte-hyperscript] for further details.
+We [aim to support](https://github.com/kenoxa/svelte-hyperscript#feature-set) all svelte features. In some cases this is not possible. For those cases we provided feasible workarounds. See [svelte-hyperscript] for further details.
 
 Some notable differences are:
 
@@ -123,7 +123,7 @@ Some notable differences are:
 
 ## Support
 
-This project is free and open-source, so if you think this project can help you or anyone else, you may [star it on GitHub](https://github.com/sastan/svelte-htm). Feel free to [open an issue](https://github.com/sastan/svelte-htm/issues) if you have any idea, question, or you've found a bug.
+This project is free and open-source, so if you think this project can help you or anyone else, you may [star it on GitHub](https://github.com/kenoxa/svelte-htm). Feel free to [open an issue](https://github.com/kenoxa/svelte-htm/issues) if you have any idea, question, or you've found a bug.
 
 ## Contribute
 
@@ -145,7 +145,7 @@ We are following the [Conventional Commits](https://www.conventionalcommits.org)
 
 ## License
 
-`svelte-htm` is open source software [licensed as MIT](https://github.com/sastan/svelte-htm/blob/main/LICENSE).
+`svelte-htm` is open source software [licensed as MIT](https://github.com/kenoxa/svelte-htm/blob/main/LICENSE).
 
 [tagged templates]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_templates
 [all modern browsers]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Browser_compatibility

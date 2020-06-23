@@ -4,7 +4,7 @@
   "description": "tagged template syntax for svelte",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sastan/svelte-htm.git"
+    "url": "git+https://github.com/kenoxa/svelte-htm.git"
   },
   "keywords": [
     "svelte",
@@ -18,12 +18,12 @@
     "virtual dom",
     "hyperscript"
   ],
-  "author": "Sascha Tandel <s.tandel@me.com>",
+  "author": "Sascha Tandel <s.tandel@kenoxa.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sastan/svelte-htm/issues"
+    "url": "https://github.com/kenoxa/svelte-htm/issues"
   },
-  "homepage": "https://github.com/sastan/svelte-htm#readme",
+  "homepage": "https://github.com/kenoxa/svelte-htm#readme",
   "source": "src/html.js",
   "main": "./dist/cjs/html.js",
   "exports": {
