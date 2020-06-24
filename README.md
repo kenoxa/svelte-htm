@@ -95,7 +95,7 @@ Some notable differences are:
 
   test('write into an input', async () => {
     const text = writable()
-    const { getByRole } = render(html`<input bind:value=${text}>`)
+    const { getByRole } = render(html`<input bind:value=${text} />`)
 
     const input = getByRole('textbox')
 
