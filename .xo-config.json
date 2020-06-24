@@ -12,6 +12,12 @@
     {
       "files": "src/**/*.js",
       "nodeVersion": ">=14"
+    },
+    {
+      "files": "*.config.js",
+      "rules": {
+        "import/no-anonymous-default-export": "off"
+      }
     }
   ]
 }
