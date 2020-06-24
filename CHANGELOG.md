@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/kenoxa/svelte-htm/compare/v1.0.2...v1.0.3) (2020-06-24)
+
+
+### Bug Fixes
+
+* jsdelivr export ([2e6e821](https://www.github.com/kenoxa/svelte-htm/commit/2e6e821316e3587ef95e8b580ff7c0a26a8a9926))
+
 ### [1.0.2](https://www.github.com/kenoxa/svelte-htm/compare/v1.0.1...v1.0.2) (2020-06-23)
 
 ### Bug Fixes
