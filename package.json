@@ -1,7 +1,7 @@
 {
   "name": "svelte-htm",
   "version": "1.0.2",
-  "description": "tagged template syntax for svelte",
+  "description": "tagged template syntax for svelte to simplify testing",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kenoxa/svelte-htm.git"
@@ -13,10 +13,14 @@
     "tagged template",
     "template literals",
     "html",
-    "htm",
     "jsx",
-    "virtual dom",
-    "hyperscript"
+    "hyperscript",
+    "dom",
+    "jsdom",
+    "testing",
+    "ui",
+    "unit",
+    "functional"
   ],
   "author": "Sascha Tandel <s.tandel@kenoxa.de>",
   "license": "MIT",

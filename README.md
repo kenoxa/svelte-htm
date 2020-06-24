@@ -1,6 +1,6 @@
 # svelte-htm
 
-> [**H**yperscript **T**agged **M**arkup](https://www.npmjs.com/package/htm) for [svelte](https://svelte.dev/)
+> [**H**yperscript **T**agged **M**arkup](https://www.npmjs.com/package/htm) for [svelte](https://svelte.dev/) to simplify testing
 
 [![License](https://badgen.net/npm/license/svelte-htm)](https://github.com/kenoxa/svelte-htm/blob/main/LICENSE)
 [![Latest Release](https://badgen.net/npm/v/svelte-htm)](https://www.npmjs.com/package/svelte-htm)
