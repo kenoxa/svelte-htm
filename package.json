@@ -40,7 +40,7 @@
   },
   "module": "./dist/esm/html.js",
   "unpkg": "./dist/umd/html.js",
-  "jsdelivr": "./dist/umd/h.js",
+  "jsdelivr": "./dist/umd/html.js",
   "sideEffects": false,
   "files": [
     "dist",
