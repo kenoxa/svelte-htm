@@ -41,9 +41,11 @@
   "module": "./dist/esm/html.js",
   "unpkg": "./dist/umd/html.js",
   "jsdelivr": "./dist/umd/html.js",
+  "types": "index.d.ts",
   "sideEffects": false,
   "files": [
     "dist",
+    "index.d.ts",
     "jsx-dev-runtime.js",
     "jsx-runtime.js"
   ],
