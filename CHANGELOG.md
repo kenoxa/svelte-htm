@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/kenoxa/svelte-htm/compare/v1.0.2...v1.1.0) (2020-06-29)
+
+
+### Features
+
+* add typescript definition ([81a71da](https://www.github.com/kenoxa/svelte-htm/commit/81a71dac493ea8a44e8503985c796f81a8539277))
+
+
+### Bug Fixes
+
+* jsdelivr export ([2e6e821](https://www.github.com/kenoxa/svelte-htm/commit/2e6e821316e3587ef95e8b580ff7c0a26a8a9926))
+
 ### [1.0.2](https://www.github.com/kenoxa/svelte-htm/compare/v1.0.1...v1.0.2) (2020-06-23)
 
 ### Bug Fixes
