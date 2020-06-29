@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/kenoxa/svelte-htm/compare/v1.1.0...v1.1.1) (2020-06-29)
+
+
+### Bug Fixes
+
+* typescript declaration ([b2b7f78](https://www.github.com/kenoxa/svelte-htm/commit/b2b7f78e8abd6a53cbbc5bee14d9c82eb6314301))
+
 ## [1.1.0](https://www.github.com/kenoxa/svelte-htm/compare/v1.0.2...v1.1.0) (2020-06-29)
 
 
