@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/kenoxa/svelte-htm/compare/v1.1.1...v1.2.0) (2022-11-08)
+
+
+### Features
+
+* update dependencies ([a50901d](https://www.github.com/kenoxa/svelte-htm/commit/a50901dc13106478ee48c0e68fc348ad45e3fe90))
+
 ### [1.1.1](https://www.github.com/kenoxa/svelte-htm/compare/v1.1.0...v1.1.1) (2020-06-29)
 
 
