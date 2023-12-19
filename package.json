@@ -70,7 +70,7 @@
     "svelte-hyperscript": "^1.2.1"
   },
   "peerDependencies": {
-    "svelte": "3.x"
+    "svelte": "4 || 3"
   },
   "devDependencies": {
     "@babel/core": "^7.19.0",
